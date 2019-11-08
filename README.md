@@ -2,6 +2,8 @@
 
 * This repository contains the implementations fo the projects from the Udacity Data Engineering Nanodegree
 
+![udacity](https://user-images.githubusercontent.com/30737713/68455300-08728a80-01c9-11ea-9564-fa749fec15ba.png)
+
 
 * Data Modeling - 
 Learn to create relational and NoSQL data models to fit the diverse needs of data consumers. Use ETL to build databases in PostgreSQL and Apache Cassandra.
